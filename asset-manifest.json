@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/apuspitasari/todo.git/static/css/main.7f642599.css",
+    "main.js": "/apuspitasari/todo.git/static/js/main.10910649.js",
+    "index.html": "/apuspitasari/todo.git/index.html",
+    "main.7f642599.css.map": "/apuspitasari/todo.git/static/css/main.7f642599.css.map",
+    "main.10910649.js.map": "/apuspitasari/todo.git/static/js/main.10910649.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f642599.css",
+    "static/js/main.10910649.js"
+  ]
+}
